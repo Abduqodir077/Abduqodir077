@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Frontend
 - 👯 I’m looking to collaborate on everyone
 - 📫 How to reach me: +998 93 738 77 27
-- 😎 I like to write code
+- 💻 I like to write code
 
 <br/>
 

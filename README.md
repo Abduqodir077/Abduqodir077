@@ -6,6 +6,7 @@
 - 📫 How to reach me: +998 93 738 77 27
 - 💻 I like to write code
 - 😉 16 y.o
+- 07.04.06
 
 <br/>
 
@@ -29,3 +30,4 @@
 
 <a href="https://t.me/Abduqodir_07"> <img align="left" alt="TG" width="26px" heigth="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" /> </a> 
 <a href="https://www.instagram.com/abduqodiro6/"> <img align="left" alt="Insta" width="26px" heigth="26px" src="https://mylocalcollaborative.com/wp-content/uploads/2019/01/instalogo.png" /> </a>
+

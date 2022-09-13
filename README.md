@@ -1,4 +1,4 @@
-### Hi everyone, I'm Abduqodir (king 👑)
+### Hi everyone, I'm Abduqodir. (king 👑)
 
 
 - 🌱 I’m currently learning Frontend

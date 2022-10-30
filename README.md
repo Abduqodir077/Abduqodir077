@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on everyone
 - 📫 How to reach me: +998 93 738 77 27
 - 💻 I like to write code
-- 😉 16 y.o
+- 😎 16 y.o
 - 07.04.06
 
 <br/>
